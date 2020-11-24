@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS20311
   title: ཕྱུགས་ལས་ཀྱི་རྒྱུན་ཤེས་ཀློག་དེབ།
-  volume: ''
+  volume:
+    a407c1dabcee40f98ef6c870b62be0b0:
+      image_group_id: I8LS20313
+      title: Volume 1 of phyugs las kyi rgyun shes klog deb/
+      volume_number: 1
+      total_pages: 237
   author: ''
+ebook_metadata:
+  title: ཕྱུགས་ལས་ཀྱི་རྒྱུན་ཤེས་ཀློག་དེབ།
+  author: ''
+  sku: P000484
+  cover: cover.jpg
+  layers:
+  - pagination
